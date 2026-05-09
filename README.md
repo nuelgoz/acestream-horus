@@ -1,1 +1,1 @@
-# acestream_horus
+# acestream-horus
